@@ -1,5 +1,46 @@
 [
   {
+    "id": "image-000002",
+    "operationId": "image:98a21c029823e28486d28c76ee4e0924e691a08744ab71ece678bb0cf593583c",
+    "sha256": "98a21c029823e28486d28c76ee4e0924e691a08744ab71ece678bb0cf593583c",
+    "sequence": 2,
+    "status": "cdn-pending",
+    "sourceStatus": "complete",
+    "cdnStatus": "pending",
+    "title": "002-image_1777572329655",
+    "originalName": "002-image_1777572329655.png",
+    "filename": "002-image_1777572329655.png",
+    "type": "image",
+    "format": "png",
+    "sizeMB": 1.132,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/002-image_1777572329655.png"
+    },
+    "path": "image/002-image_1777572329655.png",
+    "cdnPath": "/image/002-image_1777572329655.png",
+    "url": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-image-01@main/image/002-image_1777572329655.png",
+    "createdAt": "2026-08-16T07:23:10.557Z",
+    "sourceCompletedAt": "2026-08-17T06:22:30.078Z",
+    "cdnPublishedAt": null,
+    "uploadedAt": "2026-08-16T07:23:10.557Z",
+    "uploader": null,
+    "legacy": {
+      "migrationVersion": 1,
+      "migratedAt": "2026-08-17T06:22:30.078Z",
+      "migratedFrom": "data/image.json",
+      "previousId": "1786864990557",
+      "previousUrl": "https://cdn.jsdelivr.net/gh/JINGTING0714/jingyan-image-01@main/image/002-image_1777572329655.png"
+    }
+  },
+  {
     "id": "image-000003",
     "operationId": "image:187e83fe5da0be529f6b43537a29e3bb1d374e117e9ec0ecee5c58d1cafa3c7c",
     "sha256": "187e83fe5da0be529f6b43537a29e3bb1d374e117e9ec0ecee5c58d1cafa3c7c",
