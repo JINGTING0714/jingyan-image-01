@@ -4,7 +4,7 @@
     "operationId": "image:187e83fe5da0be529f6b43537a29e3bb1d374e117e9ec0ecee5c58d1cafa3c7c",
     "sha256": "187e83fe5da0be529f6b43537a29e3bb1d374e117e9ec0ecee5c58d1cafa3c7c",
     "sequence": 3,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "test image",
