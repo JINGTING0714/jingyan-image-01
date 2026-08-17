@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "image-000003",
+    "operationId": "image:187e83fe5da0be529f6b43537a29e3bb1d374e117e9ec0ecee5c58d1cafa3c7c",
+    "sha256": "187e83fe5da0be529f6b43537a29e3bb1d374e117e9ec0ecee5c58d1cafa3c7c",
+    "sequence": 3,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "test image",
+    "originalName": "test image.jpg",
+    "filename": "003-test-image.jpg",
+    "type": "image",
+    "format": "jpg",
+    "sizeMB": 0.01,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/003-test-image.jpg"
+    },
+    "path": "image/003-test-image.jpg",
+    "cdnPath": "/image/003-test-image.jpg",
+    "url": null,
+    "createdAt": "2026-08-17T05:47:24.171Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
+  }
+]
