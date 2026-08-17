@@ -1,7 +1,12 @@
 {
-  "repository": "jingyan-image-01",
+  "system": "jingyan-media-center",
+  "repository": "JINGTING0714/jingyan-image-01",
+  "id": "image-01",
   "type": "image",
-  "used": "0MB",
-  "limit": "700MB",
-  "status": "active"
+  "usedMB": 1.142,
+  "targetMB": 700,
+  "overflowToleranceMB": 10,
+  "status": "active",
+  "state": "active",
+  "updatedAt": "2026-08-17T05:47:27.278Z"
 }
