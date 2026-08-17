@@ -113,7 +113,7 @@
     "operationId": "image:738752e7c5a8bf2583555302e522afec028fcf32c86ea90a84e7a0c567038679",
     "sha256": "738752e7c5a8bf2583555302e522afec028fcf32c86ea90a84e7a0c567038679",
     "sequence": 5,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "website-test",
