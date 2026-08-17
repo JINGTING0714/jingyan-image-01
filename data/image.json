@@ -79,7 +79,7 @@
     "operationId": "image:afbfbb6c47ebb7b7777d835a530539f94d828be6982a89a8e0cca969aed68251",
     "sha256": "afbfbb6c47ebb7b7777d835a530539f94d828be6982a89a8e0cca969aed68251",
     "sequence": 4,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "方大同 - 测试 Live feat. 王力宏.jpg",
