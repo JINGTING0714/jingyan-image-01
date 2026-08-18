@@ -379,5 +379,39 @@
     "cdnPublishedAt": "2026-08-18T13:11:55.516Z",
     "uploadedAt": "2026-08-18T13:11:55.516Z",
     "uploader": null
+  },
+  {
+    "id": "image-000013",
+    "operationId": "image:d0c08f9e38cf74237e2a20e5bb5d665f92c248df41f4682c622e2390042f2f65",
+    "sha256": "d0c08f9e38cf74237e2a20e5bb5d665f92c248df41f4682c622e2390042f2f65",
+    "sequence": 13,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "月华原图",
+    "originalName": "月华原图.png",
+    "filename": "013-yue-hua-yuan-tu.png",
+    "type": "image",
+    "format": "png",
+    "sizeMB": 2.021,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/013-yue-hua-yuan-tu.png"
+    },
+    "path": "image/013-yue-hua-yuan-tu.png",
+    "cdnPath": "/image/013-yue-hua-yuan-tu.png",
+    "url": null,
+    "createdAt": "2026-08-18T13:27:10.058Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
