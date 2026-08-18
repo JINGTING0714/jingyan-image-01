@@ -413,5 +413,39 @@
     "cdnPublishedAt": "2026-08-18T13:27:22.713Z",
     "uploadedAt": "2026-08-18T13:27:22.713Z",
     "uploader": null
+  },
+  {
+    "id": "image-000014",
+    "operationId": "image:58067972c8dada5595e3b57acaea27f2c5db9788cea9c79f5cf277cda42c279e",
+    "sha256": "58067972c8dada5595e3b57acaea27f2c5db9788cea9c79f5cf277cda42c279e",
+    "sequence": 14,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "月神使用水印",
+    "originalName": "月神使用水印.jpg",
+    "filename": "014-yue-shen-shi-yong-shui-yin.jpg",
+    "type": "image",
+    "format": "jpg",
+    "sizeMB": 2.842,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/014-yue-shen-shi-yong-shui-yin.jpg"
+    },
+    "path": "image/014-yue-shen-shi-yong-shui-yin.jpg",
+    "cdnPath": "/image/014-yue-shen-shi-yong-shui-yin.jpg",
+    "url": null,
+    "createdAt": "2026-08-18T13:27:30.629Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
