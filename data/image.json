@@ -419,9 +419,9 @@
     "operationId": "image:58067972c8dada5595e3b57acaea27f2c5db9788cea9c79f5cf277cda42c279e",
     "sha256": "58067972c8dada5595e3b57acaea27f2c5db9788cea9c79f5cf277cda42c279e",
     "sequence": 14,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "月神使用水印",
     "originalName": "月神使用水印.jpg",
     "filename": "014-yue-shen-shi-yong-shui-yin.jpg",
@@ -441,11 +441,11 @@
     },
     "path": "image/014-yue-shen-shi-yong-shui-yin.jpg",
     "cdnPath": "/image/014-yue-shen-shi-yong-shui-yin.jpg",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/014-yue-shen-shi-yong-shui-yin.jpg",
     "createdAt": "2026-08-18T13:27:30.629Z",
     "sourceCompletedAt": "2026-08-18T13:27:33.344Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-18T13:27:41.638Z",
+    "uploadedAt": "2026-08-18T13:27:41.638Z",
     "uploader": null
   }
 ]
