@@ -385,7 +385,7 @@
     "operationId": "image:d0c08f9e38cf74237e2a20e5bb5d665f92c248df41f4682c622e2390042f2f65",
     "sha256": "d0c08f9e38cf74237e2a20e5bb5d665f92c248df41f4682c622e2390042f2f65",
     "sequence": 13,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "月华原图",
