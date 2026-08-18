@@ -351,9 +351,9 @@
     "operationId": "image:d9f485c292437890c87fad0530b866f438a32395764d67ccc61086c3877d3b1e",
     "sha256": "d9f485c292437890c87fad0530b866f438a32395764d67ccc61086c3877d3b1e",
     "sequence": 12,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "阿波罗水印",
     "originalName": "阿波罗水印.jpg",
     "filename": "012-a-bo-luo-shui-yin.jpg",
@@ -373,11 +373,11 @@
     },
     "path": "image/012-a-bo-luo-shui-yin.jpg",
     "cdnPath": "/image/012-a-bo-luo-shui-yin.jpg",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/012-a-bo-luo-shui-yin.jpg",
     "createdAt": "2026-08-18T13:11:43.935Z",
     "sourceCompletedAt": "2026-08-18T13:11:46.601Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-18T13:11:55.516Z",
+    "uploadedAt": "2026-08-18T13:11:55.516Z",
     "uploader": null
   }
 ]
