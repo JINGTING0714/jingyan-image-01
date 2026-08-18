@@ -311,5 +311,39 @@
     "cdnPublishedAt": "2026-08-18T11:25:12.803Z",
     "uploadedAt": "2026-08-18T11:25:12.803Z",
     "uploader": null
+  },
+  {
+    "id": "image-000011",
+    "operationId": "image:39d5406d1d321b7b1e6ac7e4a7e004d9f1fa05aea7d3510334ee86758d568e1b",
+    "sha256": "39d5406d1d321b7b1e6ac7e4a7e004d9f1fa05aea7d3510334ee86758d568e1b",
+    "sequence": 11,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "阿波罗底纹",
+    "originalName": "阿波罗底纹.jpg",
+    "filename": "011-a-bo-luo-di-wen.jpg",
+    "type": "image",
+    "format": "jpg",
+    "sizeMB": 1.029,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/011-a-bo-luo-di-wen.jpg"
+    },
+    "path": "image/011-a-bo-luo-di-wen.jpg",
+    "cdnPath": "/image/011-a-bo-luo-di-wen.jpg",
+    "url": null,
+    "createdAt": "2026-08-18T13:10:19.638Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
