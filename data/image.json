@@ -317,7 +317,7 @@
     "operationId": "image:39d5406d1d321b7b1e6ac7e4a7e004d9f1fa05aea7d3510334ee86758d568e1b",
     "sha256": "39d5406d1d321b7b1e6ac7e4a7e004d9f1fa05aea7d3510334ee86758d568e1b",
     "sequence": 11,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "阿波罗底纹",
