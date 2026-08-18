@@ -385,9 +385,9 @@
     "operationId": "image:d0c08f9e38cf74237e2a20e5bb5d665f92c248df41f4682c622e2390042f2f65",
     "sha256": "d0c08f9e38cf74237e2a20e5bb5d665f92c248df41f4682c622e2390042f2f65",
     "sequence": 13,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "月华原图",
     "originalName": "月华原图.png",
     "filename": "013-yue-hua-yuan-tu.png",
@@ -407,11 +407,11 @@
     },
     "path": "image/013-yue-hua-yuan-tu.png",
     "cdnPath": "/image/013-yue-hua-yuan-tu.png",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/013-yue-hua-yuan-tu.png",
     "createdAt": "2026-08-18T13:27:10.058Z",
     "sourceCompletedAt": "2026-08-18T13:27:12.920Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-18T13:27:22.713Z",
+    "uploadedAt": "2026-08-18T13:27:22.713Z",
     "uploader": null
   }
 ]
