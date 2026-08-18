@@ -345,5 +345,39 @@
     "cdnPublishedAt": "2026-08-18T13:10:31.628Z",
     "uploadedAt": "2026-08-18T13:10:31.628Z",
     "uploader": null
+  },
+  {
+    "id": "image-000012",
+    "operationId": "image:d9f485c292437890c87fad0530b866f438a32395764d67ccc61086c3877d3b1e",
+    "sha256": "d9f485c292437890c87fad0530b866f438a32395764d67ccc61086c3877d3b1e",
+    "sequence": 12,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "阿波罗水印",
+    "originalName": "阿波罗水印.jpg",
+    "filename": "012-a-bo-luo-shui-yin.jpg",
+    "type": "image",
+    "format": "jpg",
+    "sizeMB": 1.036,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/012-a-bo-luo-shui-yin.jpg"
+    },
+    "path": "image/012-a-bo-luo-shui-yin.jpg",
+    "cdnPath": "/image/012-a-bo-luo-shui-yin.jpg",
+    "url": null,
+    "createdAt": "2026-08-18T13:11:43.935Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
