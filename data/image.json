@@ -419,7 +419,7 @@
     "operationId": "image:58067972c8dada5595e3b57acaea27f2c5db9788cea9c79f5cf277cda42c279e",
     "sha256": "58067972c8dada5595e3b57acaea27f2c5db9788cea9c79f5cf277cda42c279e",
     "sequence": 14,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "月神使用水印",
