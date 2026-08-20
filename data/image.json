@@ -453,7 +453,7 @@
     "operationId": "image:7e59ab84d95ef5dc95d47b41c36f2b736896cbf9e5260ca0274660dcb0d72db0",
     "sha256": "7e59ab84d95ef5dc95d47b41c36f2b736896cbf9e5260ca0274660dcb0d72db0",
     "sequence": 17,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2651",
