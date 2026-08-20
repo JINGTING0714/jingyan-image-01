@@ -381,40 +381,6 @@
     "uploader": null
   },
   {
-    "id": "image-000015",
-    "operationId": "image:aa02f1f1bfad05bcd7a3d85a74181c01e32ab320fa8011eb1ef643bed555524d",
-    "sha256": "aa02f1f1bfad05bcd7a3d85a74181c01e32ab320fa8011eb1ef643bed555524d",
-    "sequence": 15,
-    "status": "complete",
-    "sourceStatus": "complete",
-    "cdnStatus": "published",
-    "title": "月神使用底纹",
-    "originalName": "月神使用底纹.jpg",
-    "filename": "015-yue-shen-shi-yong-di-wen.jpg",
-    "type": "image",
-    "format": "jpg",
-    "sizeMB": 2.821,
-    "repository": {
-      "id": "image-01",
-      "name": "jingyan-image-01",
-      "fullName": "JINGTING0714/jingyan-image-01"
-    },
-    "source": {
-      "repositoryId": "image-01",
-      "repo": "JINGTING0714/jingyan-image-01",
-      "branch": "main",
-      "path": "image/015-yue-shen-shi-yong-di-wen.jpg"
-    },
-    "path": "image/015-yue-shen-shi-yong-di-wen.jpg",
-    "cdnPath": "/image/015-yue-shen-shi-yong-di-wen.jpg",
-    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/015-yue-shen-shi-yong-di-wen.jpg",
-    "createdAt": "2026-08-18T13:27:49.239Z",
-    "sourceCompletedAt": "2026-08-18T13:27:52.171Z",
-    "cdnPublishedAt": "2026-08-18T13:28:00.917Z",
-    "uploadedAt": "2026-08-18T13:28:00.917Z",
-    "uploader": null
-  },
-  {
     "id": "image-000016",
     "operationId": "image:3eb8f6d209b85c18ee7e838e4e2d6e840f7ff60aee86b1063e3ab4dc7e5fecd1",
     "sha256": "3eb8f6d209b85c18ee7e838e4e2d6e840f7ff60aee86b1063e3ab4dc7e5fecd1",
