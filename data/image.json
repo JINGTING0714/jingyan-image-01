@@ -691,7 +691,7 @@
     "operationId": "image:b0f97867b74313652255b065f1b0c9c13336bc270cc38d2f5700205a1b455807",
     "sha256": "b0f97867b74313652255b065f1b0c9c13336bc270cc38d2f5700205a1b455807",
     "sequence": 27,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2715",
