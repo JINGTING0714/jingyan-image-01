@@ -521,7 +521,7 @@
     "operationId": "image:68537a93247164e1dc5d0879056626294fedbc1f88ce9f1eb4d72ac29a26a248",
     "sha256": "68537a93247164e1dc5d0879056626294fedbc1f88ce9f1eb4d72ac29a26a248",
     "sequence": 21,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2717",
