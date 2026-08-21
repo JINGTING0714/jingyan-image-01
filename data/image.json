@@ -453,7 +453,7 @@
     "operationId": "image:7354d139595784288c7bcc9c237c6342995d9e781618632fcf7b4de8187edd1e",
     "sha256": "7354d139595784288c7bcc9c237c6342995d9e781618632fcf7b4de8187edd1e",
     "sequence": 19,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2714",
