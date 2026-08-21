@@ -623,7 +623,7 @@
     "operationId": "image:939d531b8e509e7cb5cbc731c6045932dbd149ad1a892420e0efe8e25649030d",
     "sha256": "939d531b8e509e7cb5cbc731c6045932dbd149ad1a892420e0efe8e25649030d",
     "sequence": 24,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2720",
