@@ -487,7 +487,7 @@
     "operationId": "image:1d8e5eeae17a6d937b8ef0c314da879e32ce6cc8c2273b49398a596effa3e6d2",
     "sha256": "1d8e5eeae17a6d937b8ef0c314da879e32ce6cc8c2273b49398a596effa3e6d2",
     "sequence": 20,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2716",
