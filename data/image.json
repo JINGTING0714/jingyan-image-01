@@ -657,7 +657,7 @@
     "operationId": "image:39bf54d942247a7c4c97eb0c4eb6c99d30d7407aafee548e072369ea15cbc7d1",
     "sha256": "39bf54d942247a7c4c97eb0c4eb6c99d30d7407aafee548e072369ea15cbc7d1",
     "sequence": 25,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Image_1787228895850_872",
