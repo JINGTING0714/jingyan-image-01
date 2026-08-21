@@ -691,7 +691,7 @@
     "operationId": "image:c369b125163ad6cae713f23d371dc64cd7fc68ec1a5a69d2e264c29675547711",
     "sha256": "c369b125163ad6cae713f23d371dc64cd7fc68ec1a5a69d2e264c29675547711",
     "sequence": 26,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "mmexport1787161428206",
