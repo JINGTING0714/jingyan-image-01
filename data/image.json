@@ -413,5 +413,39 @@
     "cdnPublishedAt": "2026-08-20T09:23:42.486Z",
     "uploadedAt": "2026-08-20T09:23:42.486Z",
     "uploader": null
+  },
+  {
+    "id": "image-000018",
+    "operationId": "image:aa02f1f1bfad05bcd7a3d85a74181c01e32ab320fa8011eb1ef643bed555524d",
+    "sha256": "aa02f1f1bfad05bcd7a3d85a74181c01e32ab320fa8011eb1ef643bed555524d",
+    "sequence": 18,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "月神使用底纹",
+    "originalName": "月神使用底纹.jpg",
+    "filename": "018-yue-shen-shi-yong-di-wen.jpg",
+    "type": "image",
+    "format": "jpg",
+    "sizeMB": 2.821,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/018-yue-shen-shi-yong-di-wen.jpg"
+    },
+    "path": "image/018-yue-shen-shi-yong-di-wen.jpg",
+    "cdnPath": "/image/018-yue-shen-shi-yong-di-wen.jpg",
+    "url": null,
+    "createdAt": "2026-08-21T03:37:21.598Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
