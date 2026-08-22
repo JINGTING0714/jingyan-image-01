@@ -1813,7 +1813,7 @@
     "operationId": "image:d804583cde3e26ef29fdca2118fe45f6a6ca96c6109916c49bd68df877750ac4",
     "sha256": "d804583cde3e26ef29fdca2118fe45f6a6ca96c6109916c49bd68df877750ac4",
     "sequence": 61,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2858",
