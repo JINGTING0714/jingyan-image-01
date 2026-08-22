@@ -1405,7 +1405,7 @@
     "operationId": "image:3eb4ce63671c45b605a6b4e1b0f8cb9c576fc7d610757a11f5dd0a3cbb43561a",
     "sha256": "3eb4ce63671c45b605a6b4e1b0f8cb9c576fc7d610757a11f5dd0a3cbb43561a",
     "sequence": 49,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2816",
