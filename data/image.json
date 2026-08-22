@@ -75,40 +75,6 @@
     "uploader": null
   },
   {
-    "id": "image-000005",
-    "operationId": "image:738752e7c5a8bf2583555302e522afec028fcf32c86ea90a84e7a0c567038679",
-    "sha256": "738752e7c5a8bf2583555302e522afec028fcf32c86ea90a84e7a0c567038679",
-    "sequence": 5,
-    "status": "complete",
-    "sourceStatus": "complete",
-    "cdnStatus": "published",
-    "title": "website-test",
-    "originalName": "website-test.jpg",
-    "filename": "005-website-test.jpg",
-    "type": "image",
-    "format": "jpg",
-    "sizeMB": 1.947,
-    "repository": {
-      "id": "image-01",
-      "name": "jingyan-image-01",
-      "fullName": "JINGTING0714/jingyan-image-01"
-    },
-    "source": {
-      "repositoryId": "image-01",
-      "repo": "JINGTING0714/jingyan-image-01",
-      "branch": "main",
-      "path": "image/005-website-test.jpg"
-    },
-    "path": "image/005-website-test.jpg",
-    "cdnPath": "/image/005-website-test.jpg",
-    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/005-website-test.jpg",
-    "createdAt": "2026-08-17T11:22:41.474Z",
-    "sourceCompletedAt": "2026-08-17T11:22:44.473Z",
-    "cdnPublishedAt": "2026-08-17T11:23:00.023Z",
-    "uploadedAt": "2026-08-17T11:23:00.023Z",
-    "uploader": null
-  },
-  {
     "id": "image-000006",
     "operationId": "image:22e2ab70cecb3b849e8540c130f8f66a04ef0b82052e49aa2a37c38135b39459",
     "sha256": "22e2ab70cecb3b849e8540c130f8f66a04ef0b82052e49aa2a37c38135b39459",
