@@ -1643,7 +1643,7 @@
     "operationId": "image:47d48d8d10c465a683bbb757a77b245400a9d9ece6048992e0b45186da8b4f5d",
     "sha256": "47d48d8d10c465a683bbb757a77b245400a9d9ece6048992e0b45186da8b4f5d",
     "sequence": 56,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2809",
