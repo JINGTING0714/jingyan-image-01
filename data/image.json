@@ -1541,7 +1541,7 @@
     "operationId": "image:5da7c29798a747bbc46c21996c0d4bc3a6c4afbcb9dc54f95c4be56063c32f06",
     "sha256": "5da7c29798a747bbc46c21996c0d4bc3a6c4afbcb9dc54f95c4be56063c32f06",
     "sequence": 53,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2812",
