@@ -1371,7 +1371,7 @@
     "operationId": "image:f55efe9c071e28392bbcdc9756476f4e027e941708abcfcd00cce4c1ea60214e",
     "sha256": "f55efe9c071e28392bbcdc9756476f4e027e941708abcfcd00cce4c1ea60214e",
     "sequence": 48,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2817",
