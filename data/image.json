@@ -1779,7 +1779,7 @@
     "operationId": "image:350ef899f6535c583bcaafef61bbdee265ac421723788b5f5efa969cfc9443ae",
     "sha256": "350ef899f6535c583bcaafef61bbdee265ac421723788b5f5efa969cfc9443ae",
     "sequence": 60,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2805",
