@@ -1711,7 +1711,7 @@
     "operationId": "image:af3ee2e9a99083e8bb656d74fdfead2bcd0373241ce70427e159b82ceeb289c9",
     "sha256": "af3ee2e9a99083e8bb656d74fdfead2bcd0373241ce70427e159b82ceeb289c9",
     "sequence": 58,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2807",
