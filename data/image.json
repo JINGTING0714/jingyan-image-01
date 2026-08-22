@@ -1303,7 +1303,7 @@
     "operationId": "image:84d2dd81b94488b89291d508c40196b756675bab52cb582e2c5adbcaea30ff00",
     "sha256": "84d2dd81b94488b89291d508c40196b756675bab52cb582e2c5adbcaea30ff00",
     "sequence": 46,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2820",
