@@ -1609,7 +1609,7 @@
     "operationId": "image:0754f0517bbfd115390d4aad22ec16fd6c06a4bce6dbde059fd811abaf68c609",
     "sha256": "0754f0517bbfd115390d4aad22ec16fd6c06a4bce6dbde059fd811abaf68c609",
     "sequence": 55,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2810",
