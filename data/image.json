@@ -2561,7 +2561,7 @@
     "operationId": "image:4db0e8f909d37c8b92c55f43ec52e52330f5b4567fd7e029ab30b7d24d10e717",
     "sha256": "4db0e8f909d37c8b92c55f43ec52e52330f5b4567fd7e029ab30b7d24d10e717",
     "sequence": 86,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2891",
