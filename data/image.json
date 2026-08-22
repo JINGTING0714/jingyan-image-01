@@ -1575,7 +1575,7 @@
     "operationId": "image:5742eef0385e75f513bdb6bf0c862e2709cb29804e305b681a01f5c8fdcbbda2",
     "sha256": "5742eef0385e75f513bdb6bf0c862e2709cb29804e305b681a01f5c8fdcbbda2",
     "sequence": 54,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2811",
