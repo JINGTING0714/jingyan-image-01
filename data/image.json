@@ -1235,7 +1235,7 @@
     "operationId": "image:8abdd6b7efe027f9bbc3477d931c0db95cfd53d38cc69e30538be73da549fbbc",
     "sha256": "8abdd6b7efe027f9bbc3477d931c0db95cfd53d38cc69e30538be73da549fbbc",
     "sequence": 44,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2823",
