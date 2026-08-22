@@ -1269,7 +1269,7 @@
     "operationId": "image:260b90f2d7a94c2517e82bebd915323d7199d29b54834f7d3041ea1ad276a8c0",
     "sha256": "260b90f2d7a94c2517e82bebd915323d7199d29b54834f7d3041ea1ad276a8c0",
     "sequence": 45,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2822",
