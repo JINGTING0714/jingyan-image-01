@@ -1983,7 +1983,7 @@
     "operationId": "image:5a54e94376f82f9518f36a8cb0e23423586d427bac008da2e346fb668ef4f663",
     "sha256": "5a54e94376f82f9518f36a8cb0e23423586d427bac008da2e346fb668ef4f663",
     "sequence": 66,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2863",
