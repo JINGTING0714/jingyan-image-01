@@ -963,7 +963,7 @@
     "operationId": "image:742ee6622799fb89a6b733723082aae2598e66d2e396f9a78de9ad863d3c2276",
     "sha256": "742ee6622799fb89a6b733723082aae2598e66d2e396f9a78de9ad863d3c2276",
     "sequence": 35,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2832",
