@@ -1337,7 +1337,7 @@
     "operationId": "image:1b94e9b33253cfa6f04e8e0e7e08da25f9353171bf232160fc0cc7a27903d3a1",
     "sha256": "1b94e9b33253cfa6f04e8e0e7e08da25f9353171bf232160fc0cc7a27903d3a1",
     "sequence": 47,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2818",
