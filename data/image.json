@@ -2595,7 +2595,7 @@
     "operationId": "image:80eaca0b9fd2711abab2d9ce5b258d11f965e25d1d3f91f9381ab96277f147ec",
     "sha256": "80eaca0b9fd2711abab2d9ce5b258d11f965e25d1d3f91f9381ab96277f147ec",
     "sequence": 87,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2892",
