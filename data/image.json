@@ -997,7 +997,7 @@
     "operationId": "image:46c88e80abf2bab172428697040f231e0bf070b4adf9be653ea94e3807d5d1fb",
     "sha256": "46c88e80abf2bab172428697040f231e0bf070b4adf9be653ea94e3807d5d1fb",
     "sequence": 36,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2831",
