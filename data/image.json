@@ -2527,7 +2527,7 @@
     "operationId": "image:10d841ac32a8dd13ca48fd872b51190a3ae493dc4aa6d4cd5fa853d0f5edbc2e",
     "sha256": "10d841ac32a8dd13ca48fd872b51190a3ae493dc4aa6d4cd5fa853d0f5edbc2e",
     "sequence": 85,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2890",
