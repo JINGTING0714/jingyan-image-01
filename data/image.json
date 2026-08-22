@@ -1745,7 +1745,7 @@
     "operationId": "image:932291a8d879cb603cc50134b84a82355e1f48391d6720e7610e176513bdda2e",
     "sha256": "932291a8d879cb603cc50134b84a82355e1f48391d6720e7610e176513bdda2e",
     "sequence": 59,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2806",
