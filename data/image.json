@@ -793,7 +793,7 @@
     "operationId": "image:84a6d1d5bd37a5907875788ae5cb956f8df4bbe0559efe5de8d849613bfb9f9e",
     "sha256": "84a6d1d5bd37a5907875788ae5cb956f8df4bbe0559efe5de8d849613bfb9f9e",
     "sequence": 30,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2837",
