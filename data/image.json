@@ -2289,7 +2289,7 @@
     "operationId": "image:2a1b3e8d41fe776ca8df86d39e06c5eab7b273b1a585e498df0209f2b5ddfb00",
     "sha256": "2a1b3e8d41fe776ca8df86d39e06c5eab7b273b1a585e498df0209f2b5ddfb00",
     "sequence": 78,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2879",
