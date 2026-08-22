@@ -2391,9 +2391,9 @@
     "operationId": "image:b63ff2f299c733d6fcc02b7f6ea15861f3d0bb25de13ce6daaae8559065d2ad0",
     "sha256": "b63ff2f299c733d6fcc02b7f6ea15861f3d0bb25de13ce6daaae8559065d2ad0",
     "sequence": 81,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "AI_1787382494224",
     "originalName": "AI_1787382494224.png",
     "filename": "081-ai-1787382494224.png",
@@ -2413,11 +2413,11 @@
     },
     "path": "image/081-ai-1787382494224.png",
     "cdnPath": "/image/081-ai-1787382494224.png",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/081-ai-1787382494224.png",
     "createdAt": "2026-08-22T07:12:22.051Z",
     "sourceCompletedAt": "2026-08-22T07:12:24.057Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-22T07:12:32.306Z",
+    "uploadedAt": "2026-08-22T07:12:32.306Z",
     "uploader": null
   }
 ]
