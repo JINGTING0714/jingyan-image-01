@@ -1949,7 +1949,7 @@
     "operationId": "image:b13aa3ddde9fddc2f4250bf8c9e550ef6648039cf77d8c7543e254e884185a27",
     "sha256": "b13aa3ddde9fddc2f4250bf8c9e550ef6648039cf77d8c7543e254e884185a27",
     "sequence": 65,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2862",
