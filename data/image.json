@@ -759,7 +759,7 @@
     "operationId": "image:6cc19b1bdc4f9ee53e3f3cb1957eba3bfdcb254050df5e160315c7b02a97c11c",
     "sha256": "6cc19b1bdc4f9ee53e3f3cb1957eba3bfdcb254050df5e160315c7b02a97c11c",
     "sequence": 29,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2838",
