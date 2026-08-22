@@ -2051,7 +2051,7 @@
     "operationId": "image:110293fb32d32b3548eda1ce2b8116af58b979f89fd8fd710d0f7ab4eded1930",
     "sha256": "110293fb32d32b3548eda1ce2b8116af58b979f89fd8fd710d0f7ab4eded1930",
     "sequence": 70,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2870",
