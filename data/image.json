@@ -1133,7 +1133,7 @@
     "operationId": "image:0d52bcbc32d840a1b0fddc3fd4873343248c157e3b66219ba608899213db21b8",
     "sha256": "0d52bcbc32d840a1b0fddc3fd4873343248c157e3b66219ba608899213db21b8",
     "sequence": 40,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2827",
