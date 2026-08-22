@@ -827,7 +827,7 @@
     "operationId": "image:04d747f00c4a332e8ac42ffb1a7de356f0e884017d5b6db66b922179352a3f00",
     "sha256": "04d747f00c4a332e8ac42ffb1a7de356f0e884017d5b6db66b922179352a3f00",
     "sequence": 31,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2836",
