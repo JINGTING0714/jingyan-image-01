@@ -1167,7 +1167,7 @@
     "operationId": "image:909cc169d22ff093b214847767e8bd435d311be78eca2a54bd973b30df12d6ef",
     "sha256": "909cc169d22ff093b214847767e8bd435d311be78eca2a54bd973b30df12d6ef",
     "sequence": 42,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2825",
