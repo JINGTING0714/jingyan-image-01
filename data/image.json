@@ -1881,7 +1881,7 @@
     "operationId": "image:9c648adfa0506fec3826b30daa9884c644b0113237a3801bcdb00b2d99fd5b00",
     "sha256": "9c648adfa0506fec3826b30daa9884c644b0113237a3801bcdb00b2d99fd5b00",
     "sequence": 63,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2860",
