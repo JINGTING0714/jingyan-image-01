@@ -2323,7 +2323,7 @@
     "operationId": "image:e38fbbb060e57060d12ffa1f0dd7a887d9ae6ffb5d71b4300de8a771371b8b9d",
     "sha256": "e38fbbb060e57060d12ffa1f0dd7a887d9ae6ffb5d71b4300de8a771371b8b9d",
     "sequence": 79,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2880",
