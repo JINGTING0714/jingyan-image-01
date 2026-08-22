@@ -1065,7 +1065,7 @@
     "operationId": "image:c6dce662d55b3174587e8406f6f3311c7cf67090b733def18022b446da6aafad",
     "sha256": "c6dce662d55b3174587e8406f6f3311c7cf67090b733def18022b446da6aafad",
     "sequence": 38,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2829",
