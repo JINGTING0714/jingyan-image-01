@@ -861,7 +861,7 @@
     "operationId": "image:0235cd3158ce79c8d85ee06027417a95ba4e7d8084e8c8129a459f950c772ac7",
     "sha256": "0235cd3158ce79c8d85ee06027417a95ba4e7d8084e8c8129a459f950c772ac7",
     "sequence": 32,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2835",
