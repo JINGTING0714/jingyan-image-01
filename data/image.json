@@ -2017,7 +2017,7 @@
     "operationId": "image:9d29474dd0b3d27a5f21b5885d29c93f98212adf2e57e960d1e46d78dba02520",
     "sha256": "9d29474dd0b3d27a5f21b5885d29c93f98212adf2e57e960d1e46d78dba02520",
     "sequence": 67,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2864",
