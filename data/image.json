@@ -2153,7 +2153,7 @@
     "operationId": "image:ba8a69c968d4377f17a5c9a2fe4a3dc560344040b707a8e107edfbb02a76b3ec",
     "sha256": "ba8a69c968d4377f17a5c9a2fe4a3dc560344040b707a8e107edfbb02a76b3ec",
     "sequence": 73,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "AI_1787378185641",
