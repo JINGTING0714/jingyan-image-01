@@ -1847,7 +1847,7 @@
     "operationId": "image:efda572450aff2ecc49801c179d85ffe074197b4b888806950f4371a6e2ed125",
     "sha256": "efda572450aff2ecc49801c179d85ffe074197b4b888806950f4371a6e2ed125",
     "sequence": 62,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2859",
