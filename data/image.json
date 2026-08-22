@@ -1915,7 +1915,7 @@
     "operationId": "image:fa495365a755d05c8d032aa9cdb3b06d779aada8123c4368f2121da07299fc91",
     "sha256": "fa495365a755d05c8d032aa9cdb3b06d779aada8123c4368f2121da07299fc91",
     "sequence": 64,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2842",
