@@ -1439,7 +1439,7 @@
     "operationId": "image:9f59ab2cc8c0e768d14b2a03870e1cf196a1fc9da4681bcd7b64542daeeb9b9c",
     "sha256": "9f59ab2cc8c0e768d14b2a03870e1cf196a1fc9da4681bcd7b64542daeeb9b9c",
     "sequence": 50,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2815",
