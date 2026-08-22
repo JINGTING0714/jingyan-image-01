@@ -2017,7 +2017,7 @@
     "operationId": "image:32ff03c68adf3bd4e22e17fc9508725370af7af0a185eaef695c6b12c6f33fd5",
     "sha256": "32ff03c68adf3bd4e22e17fc9508725370af7af0a185eaef695c6b12c6f33fd5",
     "sequence": 69,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2869",
