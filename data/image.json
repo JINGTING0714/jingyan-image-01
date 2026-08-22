@@ -1473,7 +1473,7 @@
     "operationId": "image:ee66f0be8a384ba5cc58319014405d98ef921aaf14a435c660e385bc21a3d5c4",
     "sha256": "ee66f0be8a384ba5cc58319014405d98ef921aaf14a435c660e385bc21a3d5c4",
     "sequence": 51,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2814",
