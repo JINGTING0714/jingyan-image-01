@@ -2425,7 +2425,7 @@
     "operationId": "image:f47dcebd9bf667e81edbb0b682938fc7dfa251a70a9d0ca24c93cf97a001b523",
     "sha256": "f47dcebd9bf667e81edbb0b682938fc7dfa251a70a9d0ca24c93cf97a001b523",
     "sequence": 82,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2888",
