@@ -1099,7 +1099,7 @@
     "operationId": "image:0ae3bf91619f8b464ad90ce1c2603275354edde0fd05983f20e4702b9e5908da",
     "sha256": "0ae3bf91619f8b464ad90ce1c2603275354edde0fd05983f20e4702b9e5908da",
     "sequence": 39,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2828",
