@@ -2357,7 +2357,7 @@
     "operationId": "image:e80bb677ee7a50c19be5512ba3f6e306ae51dadb2eab5ee2e9558b3ab023368e",
     "sha256": "e80bb677ee7a50c19be5512ba3f6e306ae51dadb2eab5ee2e9558b3ab023368e",
     "sequence": 80,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "AI_1787382659031",
