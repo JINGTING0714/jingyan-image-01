@@ -1507,7 +1507,7 @@
     "operationId": "image:8aeb6842d8a00976b8105db1699910f5d8801dd359b40756c136a52c4aae6963",
     "sha256": "8aeb6842d8a00976b8105db1699910f5d8801dd359b40756c136a52c4aae6963",
     "sequence": 52,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2813",
