@@ -2595,7 +2595,7 @@
     "operationId": "image:628d7031896deb535e7c2c75c584df10e416146f2870a5a4f8c6c988cd29ff76",
     "sha256": "628d7031896deb535e7c2c75c584df10e416146f2870a5a4f8c6c988cd29ff76",
     "sequence": 89,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2908",
