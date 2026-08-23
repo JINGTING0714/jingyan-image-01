@@ -2561,9 +2561,9 @@
     "operationId": "image:22e42c84bb9004758aca5c5eab8a1807d2752e6d481035e2dfec306ec233e29b",
     "sha256": "22e42c84bb9004758aca5c5eab8a1807d2752e6d481035e2dfec306ec233e29b",
     "sequence": 88,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "mmexport0a33fedc13d87eea4cc211000651a264_1787450576288",
     "originalName": "mmexport0a33fedc13d87eea4cc211000651a264_1787450576288.gif",
     "filename": "088-mmexport0a33fedc13d87eea4cc211000651a264-1787450576288.gif",
@@ -2583,11 +2583,11 @@
     },
     "path": "image/088-mmexport0a33fedc13d87eea4cc211000651a264-1787450576288.gif",
     "cdnPath": "/image/088-mmexport0a33fedc13d87eea4cc211000651a264-1787450576288.gif",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/088-mmexport0a33fedc13d87eea4cc211000651a264-1787450576288.gif",
     "createdAt": "2026-08-23T02:03:34.165Z",
     "sourceCompletedAt": "2026-08-23T02:03:36.208Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-23T02:03:47.633Z",
+    "uploadedAt": "2026-08-23T02:03:47.633Z",
     "uploader": null
   }
 ]
