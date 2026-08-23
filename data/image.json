@@ -2663,7 +2663,7 @@
     "operationId": "image:b001db93c042286fffd5573d2f8c96799dfc851d6dd81aadb91bc32a425caaff",
     "sha256": "b001db93c042286fffd5573d2f8c96799dfc851d6dd81aadb91bc32a425caaff",
     "sequence": 91,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2930",
