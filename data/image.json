@@ -2629,7 +2629,7 @@
     "operationId": "image:3126a7c2c62c574292bde701a6529d1534eb84043d4bfeeb60c2932373a69690",
     "sha256": "3126a7c2c62c574292bde701a6529d1534eb84043d4bfeeb60c2932373a69690",
     "sequence": 90,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2909",
