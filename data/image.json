@@ -2561,7 +2561,7 @@
     "operationId": "image:22e42c84bb9004758aca5c5eab8a1807d2752e6d481035e2dfec306ec233e29b",
     "sha256": "22e42c84bb9004758aca5c5eab8a1807d2752e6d481035e2dfec306ec233e29b",
     "sequence": 88,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "mmexport0a33fedc13d87eea4cc211000651a264_1787450576288",
