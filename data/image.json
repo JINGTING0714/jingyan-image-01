@@ -2833,7 +2833,7 @@
     "operationId": "image:d68a961c1e1693bec78b07c0857a17ae37eee2aca92297274f23cf7e4b989b56",
     "sha256": "d68a961c1e1693bec78b07c0857a17ae37eee2aca92297274f23cf7e4b989b56",
     "sequence": 96,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2948",
