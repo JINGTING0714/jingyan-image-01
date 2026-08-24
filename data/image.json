@@ -2765,7 +2765,7 @@
     "operationId": "image:ee3e29e495b0e7b2da33831549f6251c88ffa16849ab62638f84554a814e20f6",
     "sha256": "ee3e29e495b0e7b2da33831549f6251c88ffa16849ab62638f84554a814e20f6",
     "sequence": 94,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2946",
