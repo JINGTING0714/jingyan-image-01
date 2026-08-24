@@ -2969,7 +2969,7 @@
     "operationId": "image:21a45d9a1514e693420bb947aa034c20efbb6011282006b0f4540ea59c9bbc70",
     "sha256": "21a45d9a1514e693420bb947aa034c20efbb6011282006b0f4540ea59c9bbc70",
     "sequence": 100,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2973",
