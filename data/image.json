@@ -2935,7 +2935,7 @@
     "operationId": "image:70536cd6d76e878d74db9ce11250345f8f4440254fdf3efd8232a0d215414a47",
     "sha256": "70536cd6d76e878d74db9ce11250345f8f4440254fdf3efd8232a0d215414a47",
     "sequence": 99,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2969",
