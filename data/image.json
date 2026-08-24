@@ -2731,7 +2731,7 @@
     "operationId": "image:e85964a54fcc4d84b924c6b3d38c82da7c9724fdaa87488e8cfa47f812836d84",
     "sha256": "e85964a54fcc4d84b924c6b3d38c82da7c9724fdaa87488e8cfa47f812836d84",
     "sequence": 93,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2942",
