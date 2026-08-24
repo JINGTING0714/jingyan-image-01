@@ -2697,7 +2697,7 @@
     "operationId": "image:c8d6d382eafea06b79b1e4eeea11d217631ea0b6d1437916b2a5c32da416ac26",
     "sha256": "c8d6d382eafea06b79b1e4eeea11d217631ea0b6d1437916b2a5c32da416ac26",
     "sequence": 92,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2941",
