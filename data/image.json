@@ -2799,7 +2799,7 @@
     "operationId": "image:b209819d0397202e5d6f73839061a68d5cf78a0af39a1ff56f38f7584dca5c78",
     "sha256": "b209819d0397202e5d6f73839061a68d5cf78a0af39a1ff56f38f7584dca5c78",
     "sequence": 95,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2947",
