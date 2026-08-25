@@ -3343,7 +3343,7 @@
     "operationId": "image:7d36cdea4636f85691a07c08c0e31bafb7a44ba75b01fd8d52c684cd5c8efd78",
     "sha256": "7d36cdea4636f85691a07c08c0e31bafb7a44ba75b01fd8d52c684cd5c8efd78",
     "sequence": 111,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "mmexport7d08bd550db3a0a16b7c2815b9d007fb_1787450554005",
