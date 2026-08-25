@@ -3207,7 +3207,7 @@
     "operationId": "image:ec1ce3dbdd326033ea36ce79bf6bcc72a1b6d6cbb907b74157bdb36a39abd4c7",
     "sha256": "ec1ce3dbdd326033ea36ce79bf6bcc72a1b6d6cbb907b74157bdb36a39abd4c7",
     "sequence": 107,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2981",
