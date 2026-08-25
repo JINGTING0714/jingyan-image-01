@@ -3105,7 +3105,7 @@
     "operationId": "image:ab1c4bc74ff9a4d6b06b21dd87ae53a682dda574040dbdec306b66f6346e5164",
     "sha256": "ab1c4bc74ff9a4d6b06b21dd87ae53a682dda574040dbdec306b66f6346e5164",
     "sequence": 104,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2978",
