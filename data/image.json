@@ -3309,7 +3309,7 @@
     "operationId": "image:10152ff6819965041655da32bd47ace11004d061f72f26aa82ae137c1a6c8187",
     "sha256": "10152ff6819965041655da32bd47ace11004d061f72f26aa82ae137c1a6c8187",
     "sequence": 110,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "AI_1787382665071",
