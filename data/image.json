@@ -3173,7 +3173,7 @@
     "operationId": "image:14c02f32c8a352e2e879a5f95130656960f4fb2464b21f849f7ae8a2071e26fd",
     "sha256": "14c02f32c8a352e2e879a5f95130656960f4fb2464b21f849f7ae8a2071e26fd",
     "sequence": 106,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2980",
