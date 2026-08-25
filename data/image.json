@@ -3241,7 +3241,7 @@
     "operationId": "image:03e96f312d9b141422bd955e255a026e1ddcff3ad711b00cddb1bffa06199da9",
     "sha256": "03e96f312d9b141422bd955e255a026e1ddcff3ad711b00cddb1bffa06199da9",
     "sequence": 108,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2982",
