@@ -3003,7 +3003,7 @@
     "operationId": "image:fa205489c20b871894a703f9ef1effd3490d4d41f98e378565b36b21cfe4a2cb",
     "sha256": "fa205489c20b871894a703f9ef1effd3490d4d41f98e378565b36b21cfe4a2cb",
     "sequence": 101,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2975",
