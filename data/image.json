@@ -3037,7 +3037,7 @@
     "operationId": "image:8287cba482eb2409bfe05bd32f308097a047a99e22a2de0d3949b6ba6cc535a1",
     "sha256": "8287cba482eb2409bfe05bd32f308097a047a99e22a2de0d3949b6ba6cc535a1",
     "sequence": 102,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_2976",
