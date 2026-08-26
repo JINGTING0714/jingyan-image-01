@@ -3,15 +3,15 @@
   "repository": "JINGTING0714/jingyan-image-01",
   "id": "image-01",
   "type": "image",
-  "usedMB": 54.036,
+  "usedMB": 54.356,
   "targetMB": 700,
   "overflowToleranceMB": 10,
   "status": "active",
   "state": "active",
   "layout": "legacy-flat",
   "bucketSize": null,
-  "updatedAt": "2026-08-25T05:21:32.473Z",
-  "fileCount": 99,
+  "updatedAt": "2026-08-26T23:48:37.126Z",
+  "fileCount": 100,
   "firstMediaId": "image-000002",
-  "lastMediaId": "image-000111"
+  "lastMediaId": "image-000112"
 }
