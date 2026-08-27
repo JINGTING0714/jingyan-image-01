@@ -3445,7 +3445,7 @@
     "operationId": "image:29fa63119e7a9062f9b3893aa8d615f52c323c38091e75f48b33ae1f45808387",
     "sha256": "29fa63119e7a9062f9b3893aa8d615f52c323c38091e75f48b33ae1f45808387",
     "sequence": 114,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3093",
