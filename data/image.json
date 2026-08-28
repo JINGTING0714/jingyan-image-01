@@ -3513,7 +3513,7 @@
     "operationId": "image:72ab576927f64ccd273099f7523b56e83ba2d1ac32ac1feaf2c22f0e9a8d505e",
     "sha256": "72ab576927f64ccd273099f7523b56e83ba2d1ac32ac1feaf2c22f0e9a8d505e",
     "sequence": 116,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3111",
