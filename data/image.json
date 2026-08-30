@@ -3683,7 +3683,7 @@
     "operationId": "image:4c81fe2c5b790d57b70008ea01eabceb2426c5fa861f26102442509d25173466",
     "sha256": "4c81fe2c5b790d57b70008ea01eabceb2426c5fa861f26102442509d25173466",
     "sequence": 121,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3199",
