@@ -3751,7 +3751,7 @@
     "operationId": "image:7398456fb8c9ea2ad93d03363c5af4194009a357a2b5c7fc58238c24b64e3479",
     "sha256": "7398456fb8c9ea2ad93d03363c5af4194009a357a2b5c7fc58238c24b64e3479",
     "sequence": 123,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3197",
