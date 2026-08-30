@@ -3717,7 +3717,7 @@
     "operationId": "image:e9a54c71738b30d5fe346fd0476db9b2e56d53564ad8c41d730efd8c9145e9a7",
     "sha256": "e9a54c71738b30d5fe346fd0476db9b2e56d53564ad8c41d730efd8c9145e9a7",
     "sequence": 122,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3198",
