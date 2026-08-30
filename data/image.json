@@ -3819,7 +3819,7 @@
     "operationId": "image:daf5845a34cc3c1c909f1f1c151bc045ae4bf941949da5dffb7b4adb0489febf",
     "sha256": "daf5845a34cc3c1c909f1f1c151bc045ae4bf941949da5dffb7b4adb0489febf",
     "sequence": 125,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "379",
