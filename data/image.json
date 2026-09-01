@@ -3853,7 +3853,7 @@
     "operationId": "image:e809c7fab1837a057efbdc1cf8a80b7e850a7964c44638f28bc586b8a8bb665f",
     "sha256": "e809c7fab1837a057efbdc1cf8a80b7e850a7964c44638f28bc586b8a8bb665f",
     "sequence": 126,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "24",
