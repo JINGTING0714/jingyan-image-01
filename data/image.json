@@ -3955,7 +3955,7 @@
     "operationId": "image:aec9da075ca87ba751e05ad4a10fd084d3edebd17fc616291e90f4f3b4bf2075",
     "sha256": "aec9da075ca87ba751e05ad4a10fd084d3edebd17fc616291e90f4f3b4bf2075",
     "sequence": 129,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3511",
