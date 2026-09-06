@@ -3989,7 +3989,7 @@
     "operationId": "image:204ba1b8355b9074ceba9a87fe14adafa93e55c59b0d060d334232380b78e7c5",
     "sha256": "204ba1b8355b9074ceba9a87fe14adafa93e55c59b0d060d334232380b78e7c5",
     "sequence": 130,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "33",
