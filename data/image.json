@@ -3921,7 +3921,7 @@
     "operationId": "image:7919e01c629d8187254fc059c2d59656894727b65ff161cf0b68523ce0092f43",
     "sha256": "7919e01c629d8187254fc059c2d59656894727b65ff161cf0b68523ce0092f43",
     "sequence": 128,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3503",
