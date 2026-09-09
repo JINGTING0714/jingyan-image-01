@@ -4023,7 +4023,7 @@
     "operationId": "image:c9a5fac267b09f63be64921b692bde0fcf55ee0008f8293d5961141e28890002",
     "sha256": "c9a5fac267b09f63be64921b692bde0fcf55ee0008f8293d5961141e28890002",
     "sequence": 131,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "1788983646249",
