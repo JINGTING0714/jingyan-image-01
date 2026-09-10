@@ -4261,7 +4261,7 @@
     "operationId": "image:6c4f2a05b02555da6e21741a47992172725f9562c89c2f1a289e6469760fa54d",
     "sha256": "6c4f2a05b02555da6e21741a47992172725f9562c89c2f1a289e6469760fa54d",
     "sequence": 138,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_0764",
