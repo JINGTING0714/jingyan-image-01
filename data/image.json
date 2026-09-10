@@ -4091,7 +4091,7 @@
     "operationId": "image:e710f3e73b836e3e1709a5f636ad91bea32c8b9fd266b5a14b01f3228fa4a60e",
     "sha256": "e710f3e73b836e3e1709a5f636ad91bea32c8b9fd266b5a14b01f3228fa4a60e",
     "sequence": 133,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_1490",
