@@ -4159,7 +4159,7 @@
     "operationId": "image:430651e0aebc841529ad3f0c04f8183b2d3d484b90f7b569dd0c3c9397edcdcb",
     "sha256": "430651e0aebc841529ad3f0c04f8183b2d3d484b90f7b569dd0c3c9397edcdcb",
     "sequence": 135,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "178386049300687",
