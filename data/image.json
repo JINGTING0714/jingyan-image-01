@@ -4295,7 +4295,7 @@
     "operationId": "image:b0500bf3fd29c36c367439bb344d4fbc62e3d897c69b30924e8c834e093463cd",
     "sha256": "b0500bf3fd29c36c367439bb344d4fbc62e3d897c69b30924e8c834e093463cd",
     "sequence": 139,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_20260914_153958",
