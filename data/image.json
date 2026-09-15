@@ -4635,7 +4635,7 @@
     "operationId": "image:a2f486c00bb82443c947254e8730a7ab4badcfbbd39e97ef08b448716a7a4726",
     "sha256": "a2f486c00bb82443c947254e8730a7ab4badcfbbd39e97ef08b448716a7a4726",
     "sequence": 149,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_8799",
