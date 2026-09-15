@@ -4465,7 +4465,7 @@
     "operationId": "image:e33a1a31c209a8ace38f535b7f966a19b47cef6a0a58cba8a574090bcc93f6ab",
     "sha256": "e33a1a31c209a8ace38f535b7f966a19b47cef6a0a58cba8a574090bcc93f6ab",
     "sequence": 144,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_0147",
