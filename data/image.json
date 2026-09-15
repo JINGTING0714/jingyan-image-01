@@ -4499,7 +4499,7 @@
     "operationId": "image:eac65a37d04819c20e81b67d7d2dd0d89674534be0fe988d437c8ff553189241",
     "sha256": "eac65a37d04819c20e81b67d7d2dd0d89674534be0fe988d437c8ff553189241",
     "sequence": 145,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "125",
