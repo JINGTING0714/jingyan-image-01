@@ -4873,7 +4873,7 @@
     "operationId": "image:8fbdf976c25483244d227106abb6bb82a780045951ab47da9c6c23a87d2737a6",
     "sha256": "8fbdf976c25483244d227106abb6bb82a780045951ab47da9c6c23a87d2737a6",
     "sequence": 156,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "72",
