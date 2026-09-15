@@ -4363,7 +4363,7 @@
     "operationId": "image:a4f3922081bb77906e46525ecd42d1b15dc378b396755760d60f4fc7b615d916",
     "sha256": "a4f3922081bb77906e46525ecd42d1b15dc378b396755760d60f4fc7b615d916",
     "sequence": 141,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_3970",
