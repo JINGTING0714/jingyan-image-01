@@ -4533,7 +4533,7 @@
     "operationId": "image:4bd58e460e966a400b516b67ab63a306d85d9bd2dd2f91860894a3585e28ceb5",
     "sha256": "4bd58e460e966a400b516b67ab63a306d85d9bd2dd2f91860894a3585e28ceb5",
     "sequence": 146,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "42",
