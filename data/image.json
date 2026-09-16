@@ -5009,7 +5009,7 @@
     "operationId": "image:1e44d0930f16bd970d25af7b375ca3f259e4b9aad43e72e2d0ca2621aad4be03",
     "sha256": "1e44d0930f16bd970d25af7b375ca3f259e4b9aad43e72e2d0ca2621aad4be03",
     "sequence": 160,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "7D42DAC5FA076022A0DF5B28264E9C3E",
