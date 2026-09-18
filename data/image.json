@@ -5043,7 +5043,7 @@
     "operationId": "image:d5149673bcccfb050dff8bd0b22dac83bb9cc7f46f40c8145ad8df56028d2f49",
     "sha256": "d5149673bcccfb050dff8bd0b22dac83bb9cc7f46f40c8145ad8df56028d2f49",
     "sequence": 161,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "无标题56_20260724192906",
