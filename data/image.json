@@ -5037,5 +5037,39 @@
     "cdnPublishedAt": "2026-09-16T02:09:54.348Z",
     "uploadedAt": "2026-09-16T02:09:54.348Z",
     "uploader": null
+  },
+  {
+    "id": "image-000161",
+    "operationId": "image:d5149673bcccfb050dff8bd0b22dac83bb9cc7f46f40c8145ad8df56028d2f49",
+    "sha256": "d5149673bcccfb050dff8bd0b22dac83bb9cc7f46f40c8145ad8df56028d2f49",
+    "sequence": 161,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "无标题56_20260724192906",
+    "originalName": "无标题56_20260724192906.png",
+    "filename": "161-wu-biao-ti56-20260724192906.png",
+    "type": "image",
+    "format": "png",
+    "sizeMB": 2.101,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/161-wu-biao-ti56-20260724192906.png"
+    },
+    "path": "image/161-wu-biao-ti56-20260724192906.png",
+    "cdnPath": "/image/161-wu-biao-ti56-20260724192906.png",
+    "url": null,
+    "createdAt": "2026-09-18T15:19:08.454Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
