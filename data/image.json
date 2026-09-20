@@ -5077,7 +5077,7 @@
     "operationId": "image:812cf66e10d472b0b16d57f5b5e2b348dbb38625ab3bf20a85bf12fbaf34d596",
     "sha256": "812cf66e10d472b0b16d57f5b5e2b348dbb38625ab3bf20a85bf12fbaf34d596",
     "sequence": 162,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "512",
