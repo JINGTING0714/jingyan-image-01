@@ -5377,5 +5377,39 @@
     "cdnPublishedAt": null,
     "uploadedAt": null,
     "uploader": null
+  },
+  {
+    "id": "image-000171",
+    "operationId": "image:4658866879f93550acd6bb5939ba8377837f70879da8e589044e399a9163ffcf",
+    "sha256": "4658866879f93550acd6bb5939ba8377837f70879da8e589044e399a9163ffcf",
+    "sequence": 171,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "415",
+    "originalName": "415.jpeg",
+    "filename": "171-415.jpeg",
+    "type": "image",
+    "format": "jpeg",
+    "sizeMB": 1.344,
+    "repository": {
+      "id": "image-01",
+      "name": "jingyan-image-01",
+      "fullName": "JINGTING0714/jingyan-image-01"
+    },
+    "source": {
+      "repositoryId": "image-01",
+      "repo": "JINGTING0714/jingyan-image-01",
+      "branch": "main",
+      "path": "image/171-415.jpeg"
+    },
+    "path": "image/171-415.jpeg",
+    "cdnPath": "/image/171-415.jpeg",
+    "url": null,
+    "createdAt": "2026-09-25T03:21:29.328Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
   }
 ]
