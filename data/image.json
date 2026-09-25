@@ -5247,7 +5247,7 @@
     "operationId": "image:0e7c1d6059c0cd4c7d83f37304d0c805773929e4eb85c6ce0ca47bc234b2ee05",
     "sha256": "0e7c1d6059c0cd4c7d83f37304d0c805773929e4eb85c6ce0ca47bc234b2ee05",
     "sequence": 167,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_4298",
