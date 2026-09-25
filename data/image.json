@@ -5111,7 +5111,7 @@
     "operationId": "image:f7e857beb21855a3ac13e4b360112507c4e5e1385c87ff84d1fc04bee80962c0",
     "sha256": "f7e857beb21855a3ac13e4b360112507c4e5e1385c87ff84d1fc04bee80962c0",
     "sequence": 163,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_4525",
