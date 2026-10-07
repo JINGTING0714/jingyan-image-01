@@ -5519,7 +5519,7 @@
     "operationId": "image:72093d35d39632f09628afbcea40dee97bb2992c3395ebda0bbee25bacebd4c7",
     "sha256": "72093d35d39632f09628afbcea40dee97bb2992c3395ebda0bbee25bacebd4c7",
     "sequence": 175,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "无标题58_20261001164719",
