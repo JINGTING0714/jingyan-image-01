@@ -5553,9 +5553,9 @@
     "operationId": "image:7b89962baf31ba0bd7f7d07b9090006246c7684f1186a5019a00423f226a183d",
     "sha256": "7b89962baf31ba0bd7f7d07b9090006246c7684f1186a5019a00423f226a183d",
     "sequence": 176,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "无标题64_20261007213340",
     "originalName": "无标题64_20261007213340.png",
     "filename": "176-wu-biao-ti64-20261007213340.png",
@@ -5575,11 +5575,11 @@
     },
     "path": "image/176-wu-biao-ti64-20261007213340.png",
     "cdnPath": "/image/176-wu-biao-ti64-20261007213340.png",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/image/176-wu-biao-ti64-20261007213340.png",
     "createdAt": "2026-10-07T13:34:18.145Z",
     "sourceCompletedAt": "2026-10-07T13:34:21.986Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-10-07T13:34:34.700Z",
+    "uploadedAt": "2026-10-07T13:34:34.700Z",
     "uploader": null
   }
 ]
