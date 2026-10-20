@@ -5961,7 +5961,7 @@
     "operationId": "image:a9c62893d949a3bf8bf174c509b625e4d41caff1d2a5828ca1e7d27693fe5696",
     "sha256": "a9c62893d949a3bf8bf174c509b625e4d41caff1d2a5828ca1e7d27693fe5696",
     "sequence": 188,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5604",
