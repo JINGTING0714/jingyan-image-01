@@ -5825,7 +5825,7 @@
     "operationId": "image:144aaef7187f4cf9d3c16d82712788566107cc6a475c378ccac5dd5a35c8de4d",
     "sha256": "144aaef7187f4cf9d3c16d82712788566107cc6a475c378ccac5dd5a35c8de4d",
     "sequence": 184,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5603",
