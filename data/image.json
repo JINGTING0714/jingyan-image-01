@@ -6063,7 +6063,7 @@
     "operationId": "image:662c3d450fffc05d9394253a1e063870a5476386850376bc8ef63fb9d9633ffb",
     "sha256": "662c3d450fffc05d9394253a1e063870a5476386850376bc8ef63fb9d9633ffb",
     "sequence": 191,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5612",
