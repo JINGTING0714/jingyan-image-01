@@ -5927,7 +5927,7 @@
     "operationId": "image:ecf21a06b90a86af45981f6362f35b9f3a8dc8f80101bcfd68c4aedaa5f389b4",
     "sha256": "ecf21a06b90a86af45981f6362f35b9f3a8dc8f80101bcfd68c4aedaa5f389b4",
     "sequence": 187,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5605",
