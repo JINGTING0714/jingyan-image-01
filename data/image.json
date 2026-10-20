@@ -5791,7 +5791,7 @@
     "operationId": "image:64c454b02a1b4b07b3b61563c86169d3809a524a4ff2d219260f3c7d89c24872",
     "sha256": "64c454b02a1b4b07b3b61563c86169d3809a524a4ff2d219260f3c7d89c24872",
     "sequence": 183,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5598",
