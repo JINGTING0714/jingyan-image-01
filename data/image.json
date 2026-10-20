@@ -5995,7 +5995,7 @@
     "operationId": "image:e712ac4f15419e5f572da83f4a3485233763c1b9103a8fe0544ca976e8fc4946",
     "sha256": "e712ac4f15419e5f572da83f4a3485233763c1b9103a8fe0544ca976e8fc4946",
     "sequence": 189,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5609",
