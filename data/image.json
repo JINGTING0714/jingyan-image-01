@@ -5689,7 +5689,7 @@
     "operationId": "image:13de8a27c2e00bf75e6af38d0df7a136b5bdee38ef78b3405360ad88b41f3f7f",
     "sha256": "13de8a27c2e00bf75e6af38d0df7a136b5bdee38ef78b3405360ad88b41f3f7f",
     "sequence": 180,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5601",
