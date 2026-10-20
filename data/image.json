@@ -5723,7 +5723,7 @@
     "operationId": "image:9aaa62edcb981c565f8f57794789c07d74ce1fc0cd48acb90ae4de503e9847bd",
     "sha256": "9aaa62edcb981c565f8f57794789c07d74ce1fc0cd48acb90ae4de503e9847bd",
     "sequence": 181,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5600",
