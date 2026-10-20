@@ -5893,7 +5893,7 @@
     "operationId": "image:9706a2a7de4c0fea4508eb360e7be3c0a5421b2f297f89276905a2d62a8627ac",
     "sha256": "9706a2a7de4c0fea4508eb360e7be3c0a5421b2f297f89276905a2d62a8627ac",
     "sequence": 186,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5606",
