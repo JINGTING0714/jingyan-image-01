@@ -5757,7 +5757,7 @@
     "operationId": "image:e4cfec8bdbe1b34d385d60b6b797a7211286145e8c2ab272305f81d9a14297ff",
     "sha256": "e4cfec8bdbe1b34d385d60b6b797a7211286145e8c2ab272305f81d9a14297ff",
     "sequence": 182,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5599",
