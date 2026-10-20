@@ -6029,7 +6029,7 @@
     "operationId": "image:c9bdbb2b8671f00470373c7ac8497b5539dc82f385084ff373b677bcbb4922b1",
     "sha256": "c9bdbb2b8671f00470373c7ac8497b5539dc82f385084ff373b677bcbb4922b1",
     "sequence": 190,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5611",
