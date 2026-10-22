@@ -6233,7 +6233,7 @@
     "operationId": "image:c539991d293f994bf89acc0e3e2a10e379a0b60d7e3d15bbad1c9a49dacdeed5",
     "sha256": "c539991d293f994bf89acc0e3e2a10e379a0b60d7e3d15bbad1c9a49dacdeed5",
     "sequence": 196,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5649",
