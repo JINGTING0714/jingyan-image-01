@@ -6097,7 +6097,7 @@
     "operationId": "image:64fd97951acd8888617b6af081f3f4d8cab9f8ab5c73a7e7beb57a0a7bfdaef4",
     "sha256": "64fd97951acd8888617b6af081f3f4d8cab9f8ab5c73a7e7beb57a0a7bfdaef4",
     "sequence": 192,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5661",
