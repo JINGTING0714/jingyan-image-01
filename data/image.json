@@ -6131,7 +6131,7 @@
     "operationId": "image:c1710ec9d0934c9494cf8f1a8c32189204dceb8f44733a8587e20222eb9f4cfa",
     "sha256": "c1710ec9d0934c9494cf8f1a8c32189204dceb8f44733a8587e20222eb9f4cfa",
     "sequence": 193,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5662",
