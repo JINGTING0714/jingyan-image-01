@@ -6301,7 +6301,7 @@
     "operationId": "image:16177cac5d76915b494765c976d1ab5cfd66ca406e13d3a37d0d6ca4b9a9fc39",
     "sha256": "16177cac5d76915b494765c976d1ab5cfd66ca406e13d3a37d0d6ca4b9a9fc39",
     "sequence": 198,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "Screenshot_2026-10-25-22-55-45-75_2332cb9b27b851b548ba47a91682926c",
