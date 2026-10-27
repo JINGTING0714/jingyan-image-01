@@ -6335,7 +6335,7 @@
     "operationId": "image:976ff85ebf4a5a860f8fcaaf90ec76e8e1bfc7e69be5a9efe8d39cf54902cc3f",
     "sha256": "976ff85ebf4a5a860f8fcaaf90ec76e8e1bfc7e69be5a9efe8d39cf54902cc3f",
     "sequence": 199,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5916",
