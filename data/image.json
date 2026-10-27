@@ -6369,7 +6369,7 @@
     "operationId": "image:a2d0867cd37312c7c5a246dc3427464697987b35aaf36bf9637672a4c1ece84f",
     "sha256": "a2d0867cd37312c7c5a246dc3427464697987b35aaf36bf9637672a4c1ece84f",
     "sequence": 200,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5917",
