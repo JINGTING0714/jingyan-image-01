@@ -6403,7 +6403,7 @@
     "operationId": "image:64d3b9bb426e4c0ac2dcd7bf02e42fbde2c5d798203df7e836b9d7d7a7b202bc",
     "sha256": "64d3b9bb426e4c0ac2dcd7bf02e42fbde2c5d798203df7e836b9d7d7a7b202bc",
     "sequence": 201,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5918",
