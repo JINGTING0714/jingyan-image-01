@@ -6437,7 +6437,7 @@
     "operationId": "image:81e88797da52977db3cddef2e95c8c7e74f2f6d804d228d92669a50e32d57572",
     "sha256": "81e88797da52977db3cddef2e95c8c7e74f2f6d804d228d92669a50e32d57572",
     "sequence": 202,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_5919",
