@@ -6505,7 +6505,7 @@
     "operationId": "image:a48dc18f191f1acde36158cf8253cf6c98c6ed67d1135b37c2c4e5a0aaaef030",
     "sha256": "a48dc18f191f1acde36158cf8253cf6c98c6ed67d1135b37c2c4e5a0aaaef030",
     "sequence": 204,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6157",
