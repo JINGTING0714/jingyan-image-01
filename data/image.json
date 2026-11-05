@@ -6471,7 +6471,7 @@
     "operationId": "image:3479436fb77d92f20e6572ac480b887d5d9f36f45eb2b0183e1471ad2eb27305",
     "sha256": "3479436fb77d92f20e6572ac480b887d5d9f36f45eb2b0183e1471ad2eb27305",
     "sequence": 203,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6153",
