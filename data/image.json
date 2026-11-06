@@ -6539,7 +6539,7 @@
     "operationId": "image:95453f13cf4a259f0e92545431caf8297a74510da95da3fb115baab95aed4178",
     "sha256": "95453f13cf4a259f0e92545431caf8297a74510da95da3fb115baab95aed4178",
     "sequence": 205,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6188",
