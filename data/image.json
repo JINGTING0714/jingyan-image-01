@@ -6573,7 +6573,7 @@
     "operationId": "image:e536f1d66f90a10538dfd26329ec51fea14251385bab27ba2c3ad8f7e16f4547",
     "sha256": "e536f1d66f90a10538dfd26329ec51fea14251385bab27ba2c3ad8f7e16f4547",
     "sequence": 206,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6438",
