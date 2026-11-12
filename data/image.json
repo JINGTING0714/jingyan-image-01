@@ -6709,7 +6709,7 @@
     "operationId": "image:2ab23d6ce98924f5690e2d40a294f217055ff90963a2041cfef929fe504c7b9d",
     "sha256": "2ab23d6ce98924f5690e2d40a294f217055ff90963a2041cfef929fe504c7b9d",
     "sequence": 210,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6437",
