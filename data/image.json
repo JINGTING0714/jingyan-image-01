@@ -6675,7 +6675,7 @@
     "operationId": "image:19ffe060687b50cc204a9603d95c17a7af16024c26500b8bc4494938f24a0969",
     "sha256": "19ffe060687b50cc204a9603d95c17a7af16024c26500b8bc4494938f24a0969",
     "sequence": 209,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6436",
