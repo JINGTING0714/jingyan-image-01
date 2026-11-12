@@ -6607,7 +6607,7 @@
     "operationId": "image:c0cf97fecc90639bd172b918ac185c766eae5b70634bbe4509518e5cd680007f",
     "sha256": "c0cf97fecc90639bd172b918ac185c766eae5b70634bbe4509518e5cd680007f",
     "sequence": 207,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6432",
