@@ -6641,7 +6641,7 @@
     "operationId": "image:e9d2cfaa3e1e1c73366f4426b42e1d53ffd5b09137f0bad6ff8680c4532a6677",
     "sha256": "e9d2cfaa3e1e1c73366f4426b42e1d53ffd5b09137f0bad6ff8680c4532a6677",
     "sequence": 208,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "IMG_6435",
